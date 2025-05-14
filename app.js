@@ -1,0 +1,1 @@
+// React app bundled by Vite or another bundler
